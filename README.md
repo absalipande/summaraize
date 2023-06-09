@@ -10,3 +10,5 @@ This is a web application built with React, Vite, Tailwind CSS, Zustand, and Typ
 - **Tailwind CSS:** Tailwind CSS is used for styling the application. It provides a utility-first approach, allowing for easy and efficient customization of the app's appearance. The app is designed to be visually appealing and responsive across different devices and screen sizes.
 - **Zustand:** Zustand is a state management library for React applications. It is used in this app to manage the application's state, including the user input, the summarization process, and the resulting summary. Zustand simplifies state management and ensures a consistent and reliable application state.
 - **TypeScript:** The entire application is written in TypeScript, a statically typed superset of JavaScript. TypeScript adds type checking, enabling better code quality and improved developer productivity. It enhances code readability and provides better tooling support.
+
+I followed this tutorial from "JavaScript Mastery" by Adrian Hajdin on "https://www.youtube.com/@javascriptmastery" and "https://github.com/adrianhajdin/project_ai_summarizer"
